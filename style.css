@@ -92,3 +92,9 @@ footer.site{background:var(--ev2);color:#c8d4ce;padding:44px 0 26px;font-size:.9
 @media(max-width:860px){.fgrid{grid-template-columns:1fr 1fr}}@media(max-width:520px){.fgrid{grid-template-columns:1fr}}
 .fcities{margin-top:16px;border-top:1px solid rgba(255,255,255,.12);padding-top:12px}.fcities summary{cursor:pointer;color:#fff}.fcities .chips{margin-top:10px}
 .legal{margin-top:22px;font-size:.82rem;color:#9fb0a8}
+.avail{background:#fff6ec;border:1px solid #efd3b4;border-left:4px solid var(--cu);border-radius:10px;padding:10px 14px;font-size:.92rem;margin:10px 0}
+.dkband{margin-top:10px;padding:22px;border:1px dashed rgba(255,255,255,.35);border-radius:14px}.dkband h3 a{color:var(--peach);text-decoration:none}
+.legend{background:var(--paper);border:1px solid var(--line);border-radius:10px;padding:12px 16px;font-size:.92rem;line-height:2}
+.badge{display:inline-block;font-size:.75rem;font-weight:600;padding:2px 10px;border-radius:99px;color:#fff;margin-right:4px}.badge.in{background:var(--ev)}.badge.dk{background:var(--steel)}
+.box.dkonly{border-left:5px solid var(--steel);background:#eef3f7}
+h3 small{font-family:"IBM Plex Sans",sans-serif;font-size:.75rem;color:var(--mute);font-weight:400}
